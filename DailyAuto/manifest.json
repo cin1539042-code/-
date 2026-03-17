@@ -1,0 +1,17 @@
+{
+  "manifest_version": 1,
+  "name": "每日一键启动",
+  "version": "1.0",
+  "bgi_version": "0.36.1",
+  "description": "每日一键启动：启动游戏 + 每日委托 + 清体力（自动秘境）+ 下线",
+  "authors": [
+    {
+      "name": "autoGI",
+      "link": ""
+    }
+  ],
+  "settings_ui": "settings.json",
+  "main": "main.js",
+  "saved_files": [],
+  "library": ["."]
+}

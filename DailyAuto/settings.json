@@ -1,0 +1,41 @@
+[
+  {
+    "type": "separator"
+  },
+  {
+    "name": "gamePath",
+    "type": "input-text",
+    "label": "原神启动路径",
+    "default": "D:\\Genshin Impact\\GenshinImpact.exe"
+  },
+  {
+    "name": "waitTime",
+    "type": "input-text",
+    "label": "游戏加载等待时间(毫秒)",
+    "default": "60000"
+  },
+  {
+    "type": "separator"
+  },
+  {
+    "name": "domainName",
+    "type": "input-text",
+    "label": "秘境名称",
+    "default": "铭记之谷"
+  },
+  {
+    "name": "domainTimes",
+    "type": "input-text",
+    "label": "刷取次数",
+    "default": "5"
+  },
+  {
+    "name": "useResin",
+    "type": "checkbox",
+    "label": "消耗树脂",
+    "default": true
+  },
+  {
+    "type": "separator"
+  }
+]
